@@ -26,9 +26,9 @@ O objetivo é explicar de forma simples, prática e inspiradora como a IA funcio
 
 ## 👨‍💻 Autor
 **Allan Baeza**  
-- LinkedIn: [linkedin.com/in/allanbaeza](https://linkedin.com/in/allanbaeza)  
-- GitHub: [github.com/allanbaeza](https://github.com/allanbaeza)  
-- Email: allanbaeza@exemplo.com  
+- LinkedIn: [linkedin.com/in/allanbaeza]([https://linkedin.com/in/allanbaeza](https://www.linkedin.com/in/allan-gabriel-baeza-a281b1233/))  
+- GitHub: [github.com/allanbaeza](https://github.com/yunkbaza)  
+- Email: allanbamirati@live.com 
 
 ---
 
